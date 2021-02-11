@@ -27,7 +27,9 @@
 
 ## Solution ##
 
+<img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Nut-Classifier/blob/main/resources/Nut%20Classifier%201.png">
 
+<img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Nut-Classifier/blob/main/resources/Nut%20Classifier%202.png">
 
 - - - -
 
