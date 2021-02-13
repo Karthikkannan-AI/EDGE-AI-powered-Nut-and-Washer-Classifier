@@ -41,7 +41,7 @@
 
 ### Evaluation of the Proposed Solution ###
 
-<a href="https://youtu.be/HmmNA-sjNK0" target="_blank"><img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Nut-Classifier/blob/main/resources/Nut%20Classification.png?raw=true"/></a> 
+<a href="https://youtu.be/1KLSHlpZ4eo" target="_blank"><img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Nut-Classifier/blob/main/resources/Nut%20Classification.png?raw=true"/></a> 
 
 - - - -
 
