@@ -35,7 +35,7 @@
 
 ### Solution Workflow ###
 
-
+<img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Nut-Classifier/blob/main/resources/Nut%20Classification%20Workflow.png">
 
 - - - -
 
