@@ -1,10 +1,10 @@
-# EDGE-AI-powered-Nut-Classifier
+# EDGE AI powered Nut and Washer Classifier
 
 ## Table of Contents ##
 
-* [About the Project]()
-  * [AI on the Edge]()
-  * [Application Usecases]()
+* [About the Project](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Nut-Classifier#about-the-project)
+  * [AI on the Edge](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Nut-Classifier#ai-on-the-edge)
+  * [Application Usecases](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Nut-Classifier#application-usecases-of-computer-vision-powered-by-edge-ai)
 * [Solution](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Nut-Classifier#solution)
   * [Data Collection]()
   * [Solution Workflow](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Nut-Classifier#solution-workflow)
@@ -17,9 +17,9 @@
 
 ## About the Project ##
 
-In this EDGE AI demonstration  project, we have showcased a real-world use case of Real-time Image classification of Biscuit.
+In this EDGE AI demonstration  project, we have showcased a real-world use case of Real-time Image classification of Nut and Washer.
 
-We have trained a Deep Learning-based Classification model to identify different types and makes of Biscuit.
+We have trained a Deep Learning-based Classification model to identify different types and makes of Nut and Washer.
 
 The Deep Learning Model is deployed in Edge Device (Google Coral) for Real-time Inference. 
 
@@ -53,6 +53,10 @@ Industry 4.0 is about creating a ‘smart factory’, a manufacturing site that 
 - - - -
 
 ## Solution ##
+
+### Data Collection ###
+
+We have taken thousands of Images of the Nut and Washer in different lighting conditions, different orientations, and different background environments.
 
 <img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Nut-Classifier/blob/main/resources/Nut%20Classifier%201.png">
 
