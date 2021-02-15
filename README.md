@@ -6,7 +6,7 @@
   * [AI on the Edge](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Nut-Classifier#ai-on-the-edge)
   * [Application Usecases](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Nut-Classifier#application-usecases-of-computer-vision-powered-by-edge-ai)
 * [Solution](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Nut-Classifier#solution)
-  * [Data Collection]()
+  * [Data Collection](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Nut-Classifier#data-collection)
   * [Solution Workflow](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Nut-Classifier#solution-workflow)
   * [Evaluation of the Proposed Solution](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Nut-Classifier#evaluation-of-the-proposed-solution)
 * [Conclusion](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Nut-Classifier#conclusion)
