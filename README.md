@@ -78,7 +78,7 @@ We have taken thousands of Images of the Nut and Washer in different lighting co
 
 ## Conclusion ##
 
-
+This project is purely done for Demonstration purposes. We can help bring Computer Vision powered by EDGE AI solutions to the Factory floor.
 
 - - - -
 
