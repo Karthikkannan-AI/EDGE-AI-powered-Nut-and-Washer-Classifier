@@ -72,7 +72,7 @@ We have taken thousands of Images of the Nut and Washer in different lighting co
 
 ### Evaluation of the Proposed Solution ###
 
-<a href="https://youtu.be/RrAMb1JaW08" target="_blank"><img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Nut-Classifier/blob/main/resources/Nut%20Classification.png?raw=true"/></a> 
+<a href="https://youtu.be/YR11jU225G4" target="_blank"><img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Nut-Classifier/blob/main/resources/Nut%20Classification.png?raw=true"/></a> 
 
 - - - -
 
